@@ -1,6 +1,8 @@
 ## Hi there 👋
-<img width="1000" height="267" alt="image" src="https://github.com/user-attachments/assets/d08cdf52-daf9-442d-a1b3-64c5b91e5500" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.svg">
+  <img alt="Swanand Deshmukh" src="art/header-light.svg">
+</picture>
 # 💫 About Me:
 🔧 Swanand Deshmukh 🎓 B.Tech IT Student |💡Passionate about Tech & Development 🌱 Currently learning: Advanced Python, Web Dev & ML
 
